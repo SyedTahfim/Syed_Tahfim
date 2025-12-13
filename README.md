@@ -6,8 +6,7 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/syedtahfim1963/
 ### <img src="https://cdn-icons-png.flaticon.com/128/3295/3295476.png" width="20" /> [Multiple Linear Regression from Scratch](https://github.com/casper6020/Multiple-Linear-Regression-from-Scratch)
 Building linear regression from the ground up to understand the math behind gradient descent, cost functions, and parameter optimization.
 <p align="center">
-    <img src="https://github.com/casper6020/Linear-Regression-from-Scratch/blob/main/scatter_salary_experience.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
-    <img src="https://github.com/casper6020/Linear-Regression-from-Scratch/blob/main/regression_line.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
+    <img src="https://github.com/casper6020/Linear-Regression-from-Scratch/blob/main/scatter_salary_experience.png" width="45%" alt="Image 1 Description" style="float: center; margin-right: 2%;">
 </p>
 <br clear="all"/> 
 
@@ -34,7 +33,7 @@ This project explores historical Bitcoin price patterns through time series anal
 ### <img src="https://cdn-icons-png.flaticon.com/128/8622/8622624.png" width="20" /> [Loan Approval Prediction](https://github.com/casper6020/Loan-Approval-Prediction)
 This project develops a logistic regression model to predict __loan approval probabilities__ for Indian loan applicants. Model performance is evaluated using __accuracy, F1-score, and ROC AUC__, while __Population Stability Index (PSI)__ is applied to assess model stability across training and test datasets. The analysis highlights how credit score, loan term, and loan-to-income ratio influence loan approval likelihood.
 <p align="center">
-    <img src="https://github.com/casper6020/Loan-Approval-Prediction/blob/main/PSI_Test.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
+    <img src="https://github.com/SyedTahfim/Loan-Approval-Prediction/blob/main/ROC_AUC_Score.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
 </p>
 <br clear="all"/> 
 
